@@ -1,0 +1,27 @@
+
+[
+{
+"name": "Bolay",
+"location": "Boca Raton FL",
+"type": "Healthy American",
+"price": "$$"
+},
+{
+"name": "McDonald's",
+"location": "Boca Raton FL",
+"type": "American Fast Food",
+"price": "$"
+},
+{
+"name": "Olive Garden",
+"location": "Boca Raton FL",
+"type": "Italian",
+"price": "$$"
+},
+{
+"name": "Cheesecake Factory",
+"location": "Boca Raton FL",
+"type": "General",
+"price": "$$"
+}
+]
